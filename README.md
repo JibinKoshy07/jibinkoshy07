@@ -13,5 +13,5 @@
 
 - From Goa, India. </br>
 - DevOps & Linux enthusiast.</br>
-- Curently workin at Xminds Infotech, Trivandrum.</br>
-- Also interested on Cyber Forensics.</br>
+- Currently working at Xminds Infotech, Trivandrum.</br>
+- Also interested in Cyber Forensics.</br>
